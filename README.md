@@ -2,8 +2,13 @@
 
 Research GitHub Pages as a blogging option
 
-* [Jekyll docs](https://jekyllrb.com/docs/)
-* [GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+### Helpful links
+
+* [GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/)
+* [Markdown](https://daringfireball.net/projects/markdown/)
+* [Using Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Jekyll](https://jekyllrb.com/docs/)
+* [Liquid](https://shopify.github.io/liquid/)
 
 ### Running your development environment
 
