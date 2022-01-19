@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p>
+  {% for page_author in page.author %}
+    {% assign author = site.authors | where: 'short_name', page_author | first %}
+
+    {% comment %}
+      If there is more than one author, join the author's names with a comma
+    {% endcomment %}
+    {% if forloop.first %} {% else %} , {% endif %}
+
+    <a href="{{ author.url }}">{{ author.name }}</a>
+  {% endfor %}
+</p>
+
+<p> {{ page.date | date_to_string }} </p>
+
+{{ content }}
+
