@@ -1,10 +1,10 @@
-## Background Info
+### Background Info
 
 Research GitHub Pages as a blogging option
 
 [Jekyll docs](https://jekyllrb.com/docs/)
 
-## Running your development environment
+### Running your development environment
 
 [Documentation about testing locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
@@ -12,7 +12,7 @@ Research GitHub Pages as a blogging option
 * `$ bundle exec jekyll serve`
 * Visit http://localhost:4000
 
-## Production environment
+### Production environment
 
 https://valerie-maher.github.io/
 
