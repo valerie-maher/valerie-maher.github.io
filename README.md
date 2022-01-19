@@ -2,8 +2,8 @@
 
 Research GitHub Pages as a blogging option
 
-[Jekyll docs](https://jekyllrb.com/docs/)
-[GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+* [Jekyll docs](https://jekyllrb.com/docs/)
+* [GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 ### Running your development environment
 
