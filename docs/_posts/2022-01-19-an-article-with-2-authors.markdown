@@ -4,6 +4,7 @@ date:   2022-01-19 10:02:00 -0600
 author:
   - elizabeth
   - frodo
+tags: Tag2
 ---
 
 Here's a [link to a different post within the site]({% post_url 2022-01-19-welcome-to-jekyll %}).
