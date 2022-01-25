@@ -5,7 +5,9 @@ date:   2022-01-26 10:00:00 -0600
 categories: examples
 ---
 
-TODO: Investigate difference between local env and prod.  The future flag in `_config.yml` doesn't seem to be working on prod.
+TODO: Investigate difference between local env and prod.  The future flag in `_config.yml` doesn't seem to be working on prod.  
+Ah, this seems to be the problem:  
+https://github.com/actions/jekyll-build-pages/issues/9
 
 What happens if I set the publish date in the future?
 
