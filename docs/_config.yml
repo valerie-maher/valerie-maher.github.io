@@ -29,6 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# By default Github Pages will publish future-dated posts.  We override that setting here:
+future: false
+
 # Build settings
 theme: minima
 plugins:

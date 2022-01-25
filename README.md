@@ -29,6 +29,6 @@ Just pushing code to the `main` branch triggers a deploy.
 
 [Check the deploy status here](https://github.com/valerie-maher/valerie-maher.github.io/deployments/activity_log?environment=github-pages)
 
-The production environment is here:
+The production environment is here:  
 https://valerie-maher.github.io/
 
