@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Future"
 date:   2022-01-26 10:00:00 -0600
 categories: examples

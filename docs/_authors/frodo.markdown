@@ -1,5 +1,4 @@
 ---
-layout: author
 name: Frodo
 short_name: frodo
 ---

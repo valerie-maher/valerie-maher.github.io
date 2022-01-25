@@ -1,5 +1,4 @@
 ---
-layout: author
 name: Elizabeth Barrett Browning
 short_name: elizabeth
 title: Elizabeth Barrett Browning

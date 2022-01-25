@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "An Article with 2 Authors"
 date:   2022-01-19 10:02:00 -0600
 author:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Sonnet #43"
 date:   2022-01-19 10:01:00 -0600
 author: elizabeth
