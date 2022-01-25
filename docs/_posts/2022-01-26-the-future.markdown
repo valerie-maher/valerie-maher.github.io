@@ -5,6 +5,8 @@ date:   2022-01-26 10:00:00 -0600
 categories: examples
 ---
 
+TODO: Investigate difference between local env and prod.  The future flag in `_config.yml` doesn't seem to be working on prod.
+
 What happens if I set the publish date in the future?
 
 Oooh, it looks like Jekyll is smart enough to not display future-dated articles.  It seems to be based on the Front Matter date field, not the date in the file name.
