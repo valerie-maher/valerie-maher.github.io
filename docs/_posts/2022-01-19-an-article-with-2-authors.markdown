@@ -5,6 +5,7 @@ author:
   - elizabeth
   - frodo
 tags: Tag2
+slug: two authors
 ---
 
 Here's a [link to a different post within the site]({% post_url 2022-01-19-welcome-to-jekyll %}).

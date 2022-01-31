@@ -2,6 +2,7 @@
 title:  "The Future"
 date:   2022-01-26 10:00:00 -0600
 categories: examples
+permalink: /hello-from-the-future/
 ---
 
 TODO: Investigate difference between local env and prod.  The future flag in `_config.yml` doesn't seem to be working on prod.  
