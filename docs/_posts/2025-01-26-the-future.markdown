@@ -1,6 +1,6 @@
 ---
 title:  "The Future"
-date:   2022-01-26 10:00:00 -0600
+date:   2025-01-26 10:00:00 -0600
 categories: examples
 permalink: /hello-from-the-future/
 ---
